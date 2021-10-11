@@ -1,7 +1,7 @@
 {
-  "name": "safebot",
+  "name": "agbot",
   "version": "1.1.0",
-  "description": "Discord bot for SafeMoon",
+  "description": "Discord bot for aquagoat",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "docker:local": "npm install && nodemon ./src/bot.js",
     "docker:shard": "npm install && nodemon ./src/init.js"
   },
-  "author": "Henry Wyatt",
+  "author": "Ruby Nguyen",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
