@@ -1,7 +1,7 @@
 {
-    "token": "YOUR_BOT_TOKEN",
+    "token": "MTM2NjI4MjQ0NjM5NTQwODQwNA.GEvSvb.jGiGqvAhx-3bG1YbToxIaJEz7zgn57xlh_ga_A",
     "prefix": "!",
     "mongoPath": "mongodb://db:27017/",
-    "contractAddress": "0x8076C74C5e3F5852037F31Ff0093Eeb8c8ADd8D3",
-    "bscScanApiKey": "YOUR_API_KEY_GOES_HERE"
+    "contractAddress": "0x24Ef78C7092d255Ed14a0281ac1800C359aF3afe",
+    "bscScanApiKey": "23929"
 }
